@@ -35,5 +35,4 @@ function divide() {
         return number1 / number2
 }
 
-
 console.log(add() || subtract() || multiply() || divide())
