@@ -7,7 +7,7 @@ password2 = prompt ("please enter 2nd password")
 
 function checkPassword() {
 
-    if (password == password2)
+    if (password === password2)
         return true;
 
     else return false;
