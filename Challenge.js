@@ -18,7 +18,6 @@ while (isNaN(number2));
 function add() {
     if (perform == "add")
         return number1 + number2
-
 }
 
 function subtract() {
